@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "昔々の漣 (英語版)",
+  "base_artist": "HOYO-MIX",
+  "createdAt": "2026-01-14T05:41:54.294056Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "昔々の漣 - 英語版",
+      "artist": "HOYO-MiX, Cassie Wei",
+      "has_synced": false,
+      "path": "select/pl_01_昔々の漣_-_英語版_HOYO-MiX,_Cassie_Wei.txt"
+    }
+  ]
+}
