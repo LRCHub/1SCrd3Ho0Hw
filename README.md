@@ -1,0 +1,44 @@
+# HOYO-MIX – 昔々の漣 (英語版)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Once upon a time
+Morning glow, scattered light
+Shone on you and I
+In fading poems, frozen rhymes
+Our traces on the breeze
+Whispers of past revelry
+Please let me linger for now
+Enveloped in your sound
+Love on the page
+It's the ink our story's penned
+No matter how it ends, I'd do it all again
+Oh, stay true
+Blossom as spring renews
+Dream in colors, every hue
+Tomorrow's heights, to tomorrow's life
+I'll walk in step beside you
+So, stay true
+Thaw wintеr's rime anew
+Woven mеmories your boon
+And like a melody, sing a song of reverie
+Please, stay true
+Cherish our memory
+Go with love, your heart's your key
+As rivers flow, oh, as gardens grow
+I hope you bloom in beauty
+See you soon, after the end of time
+In the melted frost and rime
+Oh, stay true
+Blossom as spring renews
+Dream in colors, every hue
+Tomorrow's heights, to tomorrow's life
+I'll walk in step beside you
+Now, stay true
+Thaw winter's rime anew
+Woven memories your boon
+And like a melody, sing our reverie
+And in our memory
+Pen the end of our journey
+```
